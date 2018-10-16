@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.xlsx
+*.pkl
+catboost_info/
+*.pyc
+archive/*
+simulate.csv
+nohup.out
